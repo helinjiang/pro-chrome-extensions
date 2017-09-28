@@ -1,2 +1,6 @@
 # pro-chrome-extensions
-Some demo of Chrome Extensions 
+
+本项目是关于 Chrome Extensions 的一些示例。
+
+
+- https://developer.chrome.com/extensions/samples
